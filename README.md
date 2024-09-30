@@ -1,3 +1,3 @@
 # Algoritmos com Visualg
-Exercícios de algoritmo do canal Curso em Vídeo.
-Contém também alguns exercícios do meu curso técnico
+---
+Exercícios de algoritmo do meu curso **Técnico de TI** no **Senac**.
